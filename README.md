@@ -56,8 +56,8 @@ Returns statistics calculated from the CSV data.
   "youngest": ["Zeca"],
   "average_age": 46
 }
-
-🧪 Automated Testing
+```
+## 🧪 Automated Testing
 
 The project includes automated tests covering:
 
