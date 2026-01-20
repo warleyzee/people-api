@@ -5,7 +5,7 @@ from typing import Optional, List
 class PersonStats(BaseModel):
     oldest: List[str]
     youngest: List[str]
-    avg_age: Optional[int]
+    average_age: Optional[int]
 
 
 class InvalidAgesResponse(BaseModel):
